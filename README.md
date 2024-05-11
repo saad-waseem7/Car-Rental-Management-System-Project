@@ -6,7 +6,7 @@ Welcome to the Car Rental Management System project! This system is designed to 
 
 - **User Interface Menus:** The system provides intuitive menu interfaces for easy navigation, ensuring a user-friendly experience.
 - **Robust Error Handling:** Robust error handling mechanisms are implemented to gracefully handle unexpected scenarios, ensuring smooth operation.
-- **Text Color Enhancement:** The user interface is enhanced with color text to improve readability and make the system visually appealing.
+- **Text Color Enhancement:** Although its UI is simple but it is enhanced with color text to improve readability and make the system visually appealing.
 - **Polymorphism:** Polymorphism is utilized in the system design to enhance code flexibility and maintainability.
 - **Login System:** A secure login system is implemented to restrict access to authorized users, ensuring data privacy and security.
 - **File Handling:** Data storage is managed using file handling techniques, preventing data loss even after the program is terminated.
