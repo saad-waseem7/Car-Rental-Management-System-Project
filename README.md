@@ -1,6 +1,6 @@
 # Car Rental Management System
 
-Welcome to the Car Rental Management System project! This system is designed to facilitate the management of car rentals efficiently. Developed as part of "Object-Oriented Programming" course, this system incorporates various features to streamline the process of renting cars, managing bookings, and generating invoices.
+This system is designed to facilitate the management of car rentals efficiently. Developed as part of "Object-Oriented Programming" course, this system incorporates various features to streamline the process of renting cars, managing bookings, and generating invoices.
 
 ## Features
 
